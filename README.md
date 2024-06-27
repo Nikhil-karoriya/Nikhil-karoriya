@@ -1,8 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)](https://Nikhil-karoriya.io)
 <h1 align="center">Hi 👋, I'm Nikhil Karoriya</h1>
 <h3 align="center">3rd year Undergraduate, pursuing CS degree at DTU</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-karoriya&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-karoriya" /> </p>
 <img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/6009d2de23c011ecef1fbe7a/65bad3b4a3298ddfbc2ea8fc_tacpoint-blog-v1-20240131.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-karoriya&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-karoriya" /> </p>
 
 - 🌱 I’m currently learning **Machine learning**
 
@@ -10,10 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/nikhil-karoriya-680959257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/nikhil-karoriya-680959257" height="30" width="40" /></a>
-<a href="https://instagram.com/nikhil.karoriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhil.karoriya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikhil-karoriya-680959257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil karoriya" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nikhil_0_0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nikhil_0_0" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/nikhil__04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nikhil__04" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nikhilkaroriya2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhilkaroriya2004" height="30" width="40" /></a>
 </p>
 
