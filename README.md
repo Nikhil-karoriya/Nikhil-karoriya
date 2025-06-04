@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/6009d2de23c011ecef1fbe7a/65bad3b4a3298ddfbc2ea8fc_tacpoint-blog-v1-20240131.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-karoriya&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-karoriya" /> </p>
 
-- 🌱 I’m interested in **Machine learning**, **Frontend Development**
+- 🌱 I’m interested in **Machine learning**
 
 - 💬 Ask me about **React**, **Java**, **Javascript**, **Python** 
 
